@@ -2,7 +2,7 @@
 
 - Code is shown in files above
 - For project **"Extract Information from Annual Report with machine learning"**, all the details are in following link: https://github.com/cityu-hall2/CityHack2019_submissions/tree/master/team_8
-- **My solution(c++) for macy ACM questions** in following link: https://github.com/kyriiiiie/OJ/tree/master/OJ
+- **My solution(c++) for many ACM questions** in following link: https://github.com/kyriiiiie/OJ/tree/master/OJ
 
 ## Abstract
 
