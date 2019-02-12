@@ -1,6 +1,6 @@
 # Projects
 
-- Code and introductions are shown in files above
+- Code is shown in files above
 - For project "Extract Information from Annual Report with machine learning", all the details are in following link: https://github.com/cityu-hall2/CityHack2019_submissions/tree/master/team_8
 - There're many code for act questions in following link: https://github.com/kyriiiiie/OJ/tree/master/OJ
 
